@@ -1,0 +1,11 @@
+ro.mot.nat_roaming_enable=0
+provision.multi.config.id=0
+ro.multiConfig.provision.enable=1
+ro.build.config.version.app=GAS_ASIA_USASPDRIRD_A030
+persist.sys.timezone=Asia/Singapore
+ro.mot.hw.uaprof=http://uaprof.motorola.com/phoneconfig/motoxt910/Profile/motoxt910.rdf
+ro.product.drm.sd.enable=1
+ro.product.drm.fl.enable=1
+ro.product.drm.cd.enable=1
+ro.build.config.version=GAS_ASIA_USASPDRIRD_P055
+ro.build.bp.config.version=USASPYDER01IRDE103A.0R
